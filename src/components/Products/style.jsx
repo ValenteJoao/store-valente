@@ -74,6 +74,5 @@ color: #ffffff;
 
 img{
   max-width: 12px;
-  margin-bottom: 4px;
 }
 `

@@ -22,7 +22,7 @@ function Products({ photo, name, price, description, product }) {
 
       <BtnContainer onClick={() => addToCart(product)}>
         <img src={shopping_bag} alt="Sacola de compra" />
-        <span>Comprar</span>
+        <span>Adicionar ao carrinho</span>
       </BtnContainer>
     </Container>
   );
