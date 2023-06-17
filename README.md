@@ -9,7 +9,7 @@ Este é um projeto de exemplo que demonstra a implementação de um carrinho de 
 - Consumo de uma API RESTful para obter informações dos produtos.
 
 ## Acesse o projeto:
-
+https://store-valente.vercel.app/
 
 ## Uso
 
